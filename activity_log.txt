@@ -8,3 +8,4 @@ Minor style cleanup — 2025-08-27 15:17:21
 Bump log timestamp — 2025-10-21 00:52:01
 Fix typo in documentation — 2025-11-20 19:06:20
 Update helper notes — 2025-11-23 22:54:40
+Update helper notes — 2026-01-10 17:33:49
